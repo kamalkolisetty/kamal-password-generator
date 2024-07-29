@@ -18,7 +18,7 @@ This is truly a simple web application built with Flask that generates random pa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/kamalkolisetty/kamal-password-generator.git
    ```
 
 2. Navigate to the project directory:
@@ -51,9 +51,21 @@ This is truly a simple web application built with Flask that generates random pa
    - Allow repetition of characters
 3. Click on the "Generate Password" button.
 4. The generated password will be displayed on the screen.
+ 
 
-## Contributing
+## Demonstration
 
-Contributions are welcome! Please feel free to open a pull request or submit an issue if you find any bugs or have suggestions for improvements.
+![one](/w1.png)
 
+
+![one](/w2.png)
+
+
+![one](/w3.png)
+
+
+![one](/w4.png)
+
+
+![one](/w5.png)
 
